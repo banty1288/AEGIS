@@ -70,8 +70,6 @@ To run the frontend locally, you will need:
    npm run dev
    ```
 
-5. Open [http://localhost:3000](http://localhost:3000) in your browser.
-
 ## Limitations & Roadmap
 
 - **Live Market Data:** The MVP uses hardcoded arrays to simulate live commodity tickers. Future iterations plan to integrate live financial APIs.
